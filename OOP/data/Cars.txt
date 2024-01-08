@@ -1,0 +1,3 @@
+Car: Malibu	Plate: 4005 N E D	Color: blue	Model: 2019 	
+Car: Mazda	Plate: 3215 B A S	Color: White	Model: 2009 	
+Car: Taurus	Plate: 7382 W I N	Color: green	Model: 2022 	
